@@ -1,5 +1,5 @@
-# vieui-manifest
-viero studio aosp rom
+# VieUI Manifest
+...
 
 ## How to build
 ### Create work dir
