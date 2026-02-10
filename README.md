@@ -4,7 +4,7 @@
 ## How to build
 ### Create work dir
 ```
-mkdir vieui-os && cd vieui-os
+mkdir vieui && cd vieui
 ```
 
 ### Repo init
