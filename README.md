@@ -1,2 +1,18 @@
 # vieui-manifest
 viero studio aosp rom
+
+## How to build
+### Create work dir
+```
+mkdir vieui-os && cd vieui-os
+```
+
+### Repo init
+```
+repo init -u https://github.com/ngmvix2010/vieui-manifest.git -b main
+```
+
+### Repo sync
+```
+repo sync -c -j$(nproc) --force-sync --no-clone-bundle --no-tags
+```
